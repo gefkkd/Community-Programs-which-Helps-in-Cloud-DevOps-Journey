@@ -14,9 +14,7 @@
 12. HashiCorp Ambassador: https://www.hashicorp.com/blog/hashicorp-ambassador-call-for-submissions-2023
 13. AWS Cloud Club: https://aws.amazon.com/developer/community/students/
 
-https://linkedin.com/in/manitechy
-https://github.com/gefkkd
-https://hashnode.com/@mpn
-https://dev.to/manikanta2023
-https://techmaniit.blogspot.com/
-https://twitter.com/s_manikanta1
+#Follow our tutorials here: https://www.youtube.com/@manitechy
+#Follow our GitHub here: https://github.com/gefkkd
+#Follow our blog here: https://medium.com/@gefkkd
+#Follow my personal blog here: https://dev.to/manikanta2023
